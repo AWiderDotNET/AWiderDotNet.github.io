@@ -1,0 +1,5 @@
+# Site wide configuration
+
+repository: AWiderDotNet/AWiderDotNet.github.io
+url:        http://localhost:4000
+baseurl:    ""
