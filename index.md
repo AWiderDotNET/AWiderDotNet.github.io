@@ -40,7 +40,7 @@ OK, so you've accepted that OSS is not a terrible idea, and that it may be good 
 
 #### To Level up: 
 
-* Learn about [Nuget](http://nuget.org) via the [Microsoft docs quick-start](https://docs.microsoft.com/en-us/nuget/quickstart/use-a-package)
+* Learn about [NuGet](http://nuget.org) via the [Microsoft docs quick-start](https://docs.microsoft.com/en-us/nuget/quickstart/use-a-package)
 * For using JavaScript packages, learn about [npm](https://docs.npmjs.com/) and [yarn](https://yarnpkg.com/en/docs/getting-started)
 * If you should encounter a problem with an OSS project, learn [how to communicate that issue](https://opensource.guide/how-to-contribute/#opening-an-issue) to the maintainers.
 * Read about [what it feels like](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/) to be an OSS maintainer. Being a responsible consumer means remembering that OSS owners often maintain their projects for free and in their spare time. Keeping this in mind when you submit issues or requests will be appreciated. Even [thanking an OSS maintainer](http://loamstudios.com/founders-journey/thank-an-oss-maintainer.html) can go a long way.
@@ -67,7 +67,6 @@ Excellent -- you're embracing open-source and know how to get your code into som
 * Consider hosting documentation, blogs, or web sites via [GitHub pages](http://pages.github.com) or a similar service
 * As a company, consider donating funds to support those OSS projects, particularly if they've saved your company money or time.
 * As a company, consider making time for employees to contribute back to open source -- at least the OSS projects that you use. This is another form of donation that is often more sought after than money. Help bashing bugs or contributing to releases is almost always welcome.
-* Work in the 
 
 ### Participation
 Great! At this stage, your company works in the open, and employees contribute back to projects on a regular basis. You may even have some of your own out there.
