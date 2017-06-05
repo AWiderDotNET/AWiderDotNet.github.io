@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+$font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 body,
 html {
@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    font-family: @font-family;
+    font-family: $font-family;
     font-weight: 500;
 }
 
