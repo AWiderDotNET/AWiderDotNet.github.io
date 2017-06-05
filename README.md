@@ -1,6 +1,6 @@
 # Help us Cast A Wider .NET!
 
-This is the project / site that will eventually support the domain http://AWider.NET, in an attempt to foster more involvement in the .NET OSS world.
+This is the project / site that supports the domain https://awider.net, in an attempt to foster more involvement in the .NET OSS world.
 
 While there is no code in the repository yet, we hope you'll join us for planning discussions over the in the [issues section](https://github.com/SeanKilleen/AWiderDotNet/issues). We encourage you to start your own topics as well if they're not covered so we can think about how best to bring this project to fruition.
 
@@ -18,9 +18,9 @@ If you run into problems, add an issue in this repo and we'll figure it out.
 ## Troubleshooting: Regeneration throws an SSL Error
 Sean [Ran into this problem](https://github.com/github/pages-gem/issues/399#issuecomment-280205210).
 
-Here's the fix on windows, per that thread (note -- requires a restart):
+Here's the fix on Windows, per that thread (note -- requires a restart):
 
-* Go to github and [generate a personal access token](https://github.com/settings/tokens)
+* Go to GitHub and [generate a personal access token](https://github.com/settings/tokens)
  * It just needs public access
  * Don't forget to copy the token text!
 * Create a system environment variable called `JEKYLL_GITHUB_TOKEN` and set the value to the token text
