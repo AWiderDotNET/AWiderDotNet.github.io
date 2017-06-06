@@ -1,4 +1,5 @@
 # Help us Cast A Wider .NET!
+![Travis ci build status](https://travis-ci.org/AWiderDotNET/AWiderDotNet.github.io.svg?branch=master)
 
 This is the project / site that supports the domain https://awider.net, in an attempt to foster more involvement in the .NET OSS world.
 
