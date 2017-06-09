@@ -1,8 +1,6 @@
----
-layout: main
-title: Help us Cast a Wider .NET
-subTitle: Move your .NET organization further toward open source.
-splash: true
+Title: Help us Cast a Wider .NET
+Subtitle: Move your .NET organization further toward open source.
+Splash: true
 ---
 
 # Help us Cast a Wider .NET -- We need you!
