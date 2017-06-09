@@ -1,0 +1,45 @@
+@{
+        string Title = Model.WithoutSettings.String(BlogKeys.Title);
+        string PageTitle = Context.String(BlogKeys.Title) + (string.IsNullOrWhiteSpace(Title) ? string.Empty : " - " + Title);
+}
+
+<!DOCTYPE HTML>
+<html language="en">
+  <head>
+    <meta charset="utf-8">
+    <title>@PageTitle</title>
+    
+    @Html.Partial("_Stylesheets")
+    
+    @Html.Partial("_Meta")
+    
+    @Html.Partial("_Html5Shim")
+  </head>
+  <body>
+
+      @Html.Partial("_Nav")
+      
+      @Html.Partial("_Splash")
+
+       <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12">
+
+              @RenderBody()
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /.container -->
+ 
+    @Html.Partial("_Footer")
+    
+    @Html.Partial("_Scripts")
+    
+    @Html.Partial("_Ga")
+  </body>
+</html>

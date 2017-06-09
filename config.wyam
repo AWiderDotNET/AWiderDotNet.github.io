@@ -1,0 +1,4 @@
+Settings[Keys.Host] = "AWider.NET";
+Settings[Keys.LinksUseHttps] = false;
+Settings[BlogKeys.Title] = "AWider.NET";
+Settings[BlogKeys.Description] = "Committed to Expanding the OSS community for .NET";

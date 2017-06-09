@@ -1,5 +1,8 @@
-.DS_Store
-.idea
-_site/
-.sass-cache/
-.jekyll-metadata
+[Pp]ackages/
+[Tt]ools/*
+![Tt]ools/packages.config
+[Oo]utput/
+nuget.exe
+*.zip
+/debug.log
+/packages.xml

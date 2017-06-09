@@ -1,2 +1,0 @@
-{% capture imagePath %}{{ include.name }}{% endcapture %}
-<img src="/assets/images/{{ imagePath }}" {% if include.alt %} class="img-fluid" alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
