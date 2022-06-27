@@ -5,4 +5,4 @@ subTitle: Dedicated to OSS for the .NET Community.
 splash: true
 ---
 
-Coming (once again) soon.
+# Returning soon.
